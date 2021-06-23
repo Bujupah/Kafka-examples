@@ -27,7 +27,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  */
 public class ReportingKafkaProducer {
 
-	private static String USER_PASSWORD="test";
+	private static String USER_PASSWORD="test123";
 	/**
 	 * @param args
 	 */
